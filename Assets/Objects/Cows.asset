@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b698e89367a6fc49bc9410ce5e99bd9, type: 3}
+  m_Name: Cows
+  m_EditorClassIdentifier: 
+  Name: Cows
+  TimeToPayout: 3
+  BasePay: 80
+  BaseCost: 80
+  CostIncrease: 1.14
+  AutoClickCost: 55000
+  TimeToBreed: 24
